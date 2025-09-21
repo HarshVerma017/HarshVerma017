@@ -32,7 +32,7 @@
 
 <p align="left">
 I'm Harsh Verma from India.<br><br>
-- 🔭 I’m working on AI & full-stack projects like PrepMateAI and Erasor.io clone<br>
+- 🔭 I’m working on AI & full-stack projects<br>
 - 📚 I'm currently learning advanced AI applications, full-stack SaaS deployment<br>
 - ⚡ In my free time I experiment with new tech, build small apps, and hack on personal projects
 </p>
