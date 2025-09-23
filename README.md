@@ -68,5 +68,6 @@ I'm Harsh Verma from India.<br><br>
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false" height="220" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshVerma017&show_icons=true&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshVerma017&layout=compact&theme=dark" height="180" />
 </div>
